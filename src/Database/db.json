@@ -1,0 +1,18 @@
+{
+  "user": [
+    {
+      "name": "Debayan Roy",
+      "email": "debayan1998roy@gmail.com",
+      "phone": "09674067271",
+      "city": "Kharagpur",
+      "id": 1
+    },
+    {
+      "name": "Rahul Dey",
+      "email": "rahul@gmail.com",
+      "phone": "8958745689",
+      "city": "kolkata",
+      "id": 2
+    }
+  ]
+}
